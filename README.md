@@ -1,5 +1,7 @@
 # HWR OOP Lecture Project Template
 
+https://www.w3schools.com/kotlin/index.php
+
 [TODO]: # (Change README.md Headline to better fit to your project!)
 
 This repository contains a student project created for an ongoing lecture on object-oriented
