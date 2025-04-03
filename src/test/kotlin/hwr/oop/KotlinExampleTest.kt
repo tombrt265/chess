@@ -7,7 +7,7 @@ import org.assertj.core.api.Assertions.assertThat
 class KotlinExampleTest : AnnotationSpec() {
   @Test
   fun `example returns hello world`() {
-    val example = KotlinExample()
+    val example = Main()
     val result = example.sayHello()
     assertThat(result).isEqualTo("Hello World!")
   }
